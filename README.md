@@ -4,7 +4,7 @@
 
 The report focuses on analysis of sales performance across time periods, locations, product categories, and customers behaviour. In order to find patterns, identify business opportunities, determine profitability of products and study customer behaviour.
 
-### Tools Used:
+### Tools and Skills Used:
 - SQL (CTEs, Joins, Aggregate Functions, Select Cases, Window Functions)
 - Power BI (DAX, PQE, Dashboarding)
 
@@ -35,4 +35,11 @@ The report focuses on analysis of sales performance across time periods, locatio
 2. Querying performance metrics
 3. Analysis based on months, regions, categories, products, and customer behaviour.
 4. Creating customers’ table.
+   
+### Data Visualization
+1. Importing tables from SQL
+2. Creating measures using DAX functions to represent KPIs
+3. Visualization of KPIs and graphical representation of trends and performance.
+4. Dashboarding
+
 
