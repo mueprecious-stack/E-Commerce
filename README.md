@@ -28,10 +28,10 @@ The report focuses on analysis of sales performance across time periods, locatio
 - Sub_Category
 - CustomerName
 
- # Data Analysis in SQL 
+ ### Data Analysis in SQL 
 
  1. Base Data Selection
-```SELECT * FROM Orders O JOIN Details D ON O.Order_ID = D.Order_ID
+```SELECT * FROM Orders O JOIN Details D ON O.Order_ID = D.Order_ID```
 2. Querying performance metrics
 3. Analysis based on months, regions, categories, products, and customer behaviour.
 4. Creating customers’ table.
