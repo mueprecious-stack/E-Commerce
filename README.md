@@ -59,7 +59,7 @@ The report focuses on analysis of sales performance across time periods, locatio
 ### Dashboard Overview
 This dashboard summarizes monthly sales, profit margins, regional, category, and product performance, as well as customer segmentation and purchase behavior, with slicers for detailed analysis. It also includes key annual KPIs.
 
-Access Interactive Dashboard [Here](https://app.powerbi.com/view?r=eyJrIjoiNjZlY2RhYjQtMTA3Ny00NDE0LTlmYjctYWNmNjRhNjA3Mzg2IiwidCI6IjExOTQ1YTJlLTlkNWUtNDBmOC04OTVlLTlhY2I4YWEwZjBhNiJ9)
+Click [Here](https://app.powerbi.com/view?r=eyJrIjoiNjZlY2RhYjQtMTA3Ny00NDE0LTlmYjctYWNmNjRhNjA3Mzg2IiwidCI6IjExOTQ1YTJlLTlkNWUtNDBmOC04OTVlLTlhY2I4YWEwZjBhNiJ9) to access Interactive Dashboard
 
 <img width="900" height="508" alt="E-Commerce Dashboard" src="https://github.com/user-attachments/assets/e4480322-7272-460f-a478-fca2136a7fbe" />
 
