@@ -25,8 +25,6 @@ The report focuses on analysis of sales performance across time periods, locatio
   Clean "Online Sales Data" downloaded from Kaggle 
   - [Download here](https://www.kaggle.com/datasets/samruddhi4040/online-sales-data)
 
-Access Interactive Dashboard [here]https://app.powerbi.com/groups/me/reports/b789de45-75c2-4923-bae0-de2d82c65293/a59d9e61bb62d06b24d0?experience=power-bi)
-
 #### Tables:
 - Orders
 - Details. 
