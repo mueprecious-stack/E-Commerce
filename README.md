@@ -63,6 +63,7 @@ This dashboard summarizes monthly sales, profit margins, regional, category, and
 
 <img width="900" height="508" alt="E-Commerce Dashboard" src="https://github.com/user-attachments/assets/e4480322-7272-460f-a478-fca2136a7fbe" />
 
+Click [here](https://app.powerbi.com/view?r=eyJrIjoiNjZlY2RhYjQtMTA3Ny00NDE0LTlmYjctYWNmNjRhNjA3Mzg2IiwidCI6IjExOTQ1YTJlLTlkNWUtNDBmOC04OTVlLTlhY2I4YWEwZjBhNiJ9) to acess the dashboard
 ### Business Insights
 ---
 1. Sales peaked in January and declined in July according to unstable unit prices across product categories. February recorded the highest profit margin, while July saw the largest loss.
